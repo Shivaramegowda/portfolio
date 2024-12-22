@@ -555,7 +555,6 @@ footer p {
     padding-left: 35px; /* Space for custom bullet */
     color: #ecf0f1; /* White text color */
     font-weight: 500; /* Slightly bolder text */
-    text-align: justify;
 }
 
 /* Adding a custom checkmark icon before each tech item */
